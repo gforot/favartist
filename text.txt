@@ -1,0 +1,74 @@
+Starts: Jan 31, 2014 00:00:00 Utc
+Expires: Mar 14, 2014 23:59:59 Utc
+YOU ARE FOLLOWING THIS CHALLENGE.
+Summary:
+
+Everyone loves discovering new music and artists, in this app you will help users find their next favorite artist by examining their MixRadio playlist.
+
+Conditions:
+
+In this app you’ll use the Nokia MixRadio APIs to help users find new artists by exploring the common recommendation for similar artists from their current top artist details,
+
+This app must provide the following features:
+
+using the users top artist details provided by the Nokia MixRadio API perform similar artist searches for each artist and provide a ranked list of the similar artists who appear in the lists but are not on the user top list, e.g. if an artist appears 10 time they get to the top of the list etc.
+Enable the user to launch a mix for any of the ‘new favorite’ artists listed.
+Allow the user to specify a limit to the top artists that drive the searching (e.g. 5, 10, etc).
+When the user chooses to end the app, display a simple attribution   and link to the Nokia MixRadio app.
+Include at least one background image captured or created by you.
+Include an about screen describing the app and its features as well as a feedback mechanism.
+In addition, as other developers will be taking this challenge, consider how to incorporate unique or differentiating features in your app so it stands out from the crowd in the app store.
+
+Your app must make use of Nokia MixRadio APIs and it must work on Windows Phone 8.
+
+In addition to the specific challenge features, your app must:
+
+Employ Fast App Switching.
+Include all three sizes of Live Tiles.
+Include a Primary or Secondary Live Tile, which must flip; cycle; animate; count; or update in any manner with data; images; or text. The tile animation must start as soon as the tile is pinned and any secondary tile must be available from the main Application Bar
+Follow the Windows Phone Design Language.
+Support ALL Windows Phone 8 screen resolutions.
+Your app should be made available only in those countries that offer the Nokia Music service. At the time of writing the countries supporting Nokia Music are: 
+
+Australia
+Austria
+Brazil
+Canada
+China
+Finland
+France
+Germany
+India
+Indonesia
+Ireland
+Italy
+Malaysia
+Mexico
+Netherlands
+Norway
+Poland
+Portugal
+Russia
+Saudi Arabia
+Singapore
+South Africa
+Spain
+Sweden
+Switzerland
+Thailand
+Turkey
+UAE
+UK
+USA
+Vietnam
+You can earn XP for one app only in this challenge, once you have earned XP you’ll no longer be able to submit apps to this challenge.
+
+Apps submitted to this challenge must be NEW and first published on the Windows Phone Store after the Challenge’s start date but before the Challenge’s end date. The app must be new and not previously published in a similar form.
+
+Apps submitted to this challenge must include an English language localization and be available in the US store.
+
+Apps submitted to this challenge and awarded XP will not be accepted for any other App or Game challenge, but may be resubmitted for Update and Quality challenges.
+
+Apps submitted to this challenge must be your original work. If you incorporate other software to create your app, you must comply with the terms and conditions applying to the use of that other software.
+
+Please remember to allow time for your apps to be published in Windows Phone Store and show on DVLUP.com. You are responsible for ensuring that your app is submitted on time. There will be no time extension to this challenge.
